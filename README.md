@@ -1,0 +1,2 @@
+# DFA Simulator
+This project simulates the behavior of a deterministic finite automaton to determine whether a string is in a particular defined language. The different DFAs are defined in the dfa txt files where it is outlined all of the states, inputs, and transitions between the states. The functionality is implemented through the code in pa1.py, where these dfa txt files are read in individually.
